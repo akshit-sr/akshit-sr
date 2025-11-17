@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hey there 👋
+I'm Akshit, currently an engineering student at Birla Institute of Technology, Mesra.
+
+I am currently learning Machine Learning to get into AI, I find low level stuffs amazing.
+
+My tech stack centers on Python and SQL, including NumPy, Pandas, Matplotlib, and Scikit-learn for analysis and machine learning.
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **akshit-sr/akshit-sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
