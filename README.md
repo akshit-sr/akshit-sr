@@ -1,5 +1,5 @@
 ## Hey there 👋
-I'm Akshit, currently an engineering student at Birla Institute of Technology, Mesra.
+I'm Akshit, currently an engineering student.
 
 I am currently learning Machine Learning to get into AI, I find low level stuffs amazing.
 
