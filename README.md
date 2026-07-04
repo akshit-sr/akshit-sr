@@ -3,7 +3,7 @@ I'm Akshit, currently an engineering student.
 
 I am currently learning Machine Learning to get into AI, I find low level stuffs amazing.
 
-My tech stack centers on Python and SQL, including NumPy, Pandas, Matplotlib, and Scikit-learn for analysis and machine learning.
+My tech stack centers on Python and TypeScript!
 
 
 
